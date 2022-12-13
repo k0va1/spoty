@@ -5,7 +5,7 @@ Command line utility for managing Spotify from dmenu
 ## Dependencies
 
 ```
-# pacman -S netcat jq curl xdg-utils
+# pacman -S netcat jq curl xdg-utils dmenu
 ```
 
 ## How to use?
